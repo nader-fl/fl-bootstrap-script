@@ -3,4 +3,5 @@ This is a bootstrapping script for Focused Labs. It needs to be tested more rigo
 
 TODO:
   add:
+    
     - ohmyzsh
